@@ -1,5 +1,7 @@
 # Penn Cloud Application
 
+**NOTICE:** Due to the Academic policy, the source code is excluded.
+
 # Introduction
 
 Welcome to our Penn Cloud Application, for CIS5050 Course Project!
