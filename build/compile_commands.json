@@ -1,0 +1,242 @@
+[
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/common",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++17 -o CMakeFiles/common.dir/src/DBConnection.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/common/src/DBConnection.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/common/src/DBConnection.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/common",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++17 -o CMakeFiles/common.dir/src/connector.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/common/src/connector.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/common/src/connector.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/common",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++17 -o CMakeFiles/common.dir/src/logger.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/common/src/logger.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/common/src/logger.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/common",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++17 -o CMakeFiles/common.dir/src/stringConst.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/common/src/stringConst.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/common/src/stringConst.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/dao/DaoCommon.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/dao/DaoCommon.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/dao/DaoCommon.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/dao/FileDao.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/dao/FileDao.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/dao/FileDao.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/dao/InodeDao.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/dao/InodeDao.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/dao/InodeDao.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/dao/UserDao.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/dao/UserDao.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/dao/UserDao.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/filter/SessionFilter.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/filter/SessionFilter.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/filter/SessionFilter.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/framework/common/Coder.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/common/Coder.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/common/Coder.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/framework/common/Messenger.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/common/Messenger.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/common/Messenger.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/framework/common/Utils.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/common/Utils.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/common/Utils.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/framework/core/Model.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/core/Model.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/core/Model.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/framework/core/RequestDispatcher.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/core/RequestDispatcher.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/core/RequestDispatcher.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/framework/core/RequestHandler.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/core/RequestHandler.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/core/RequestHandler.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/framework/core/RequestParser.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/core/RequestParser.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/core/RequestParser.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/framework/core/SessionManager.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/core/SessionManager.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/core/SessionManager.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/framework/core/ViewResolver.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/core/ViewResolver.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/core/ViewResolver.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/framework/http/ConnectionListener.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/http/ConnectionListener.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/http/ConnectionListener.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/framework/http/Request.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/http/Request.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/http/Request.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/framework/http/Response.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/http/Response.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/http/Response.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/framework/http/ResponseGenerator.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/http/ResponseGenerator.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/http/ResponseGenerator.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/framework/http/Session.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/http/Session.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/framework/http/Session.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/handler/DashboardHandler.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/DashboardHandler.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/DashboardHandler.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/handler/DeleteHandler.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/DeleteHandler.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/DeleteHandler.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/handler/DriveHandler.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/DriveHandler.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/DriveHandler.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/handler/IndexHandler.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/IndexHandler.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/IndexHandler.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/handler/LoginHandler.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/LoginHandler.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/LoginHandler.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/handler/LogoutHandler.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/LogoutHandler.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/LogoutHandler.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/handler/MailHandler.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/MailHandler.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/MailHandler.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/handler/MethodNotSupportHandler.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/MethodNotSupportHandler.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/MethodNotSupportHandler.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/handler/MonitorHandler.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/MonitorHandler.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/MonitorHandler.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/handler/P5Handler.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/P5Handler.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/P5Handler.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/handler/RenameHandler.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/RenameHandler.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/RenameHandler.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/handler/ResetHandler.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/ResetHandler.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/ResetHandler.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/handler/SignupHandler.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/SignupHandler.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/SignupHandler.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/handler/UploadHandler.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/UploadHandler.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/handler/UploadHandler.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/service/WebmailService.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/service/WebmailService.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/service/WebmailService.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/service/adminService/adminService.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/service/adminService/adminService.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/service/adminService/adminService.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/service/storageService/storageService.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/service/storageService/storageService.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/service/storageService/storageService.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/src/service/userService/userService.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/service/userService/userService.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/src/service/userService/userService.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/include -I/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/../common/include -I/home/cis5050/cis505/sp24-cis5050-T26/common/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++2a -o CMakeFiles/frontend.dir/frontend.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/frontendServer/frontend.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/frontendServer/frontend.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/smtpServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/usr/local/opt/openssl/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++11 -o CMakeFiles/smtpServer.dir/smtpServer.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/smtpServer/smtpServer.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/smtpServer/smtpServer.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/smtpServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/usr/local/opt/openssl/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++11 -o CMakeFiles/smtpServer.dir/__/common/src/DBConnection.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/common/src/DBConnection.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/common/src/DBConnection.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/smtpServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/usr/local/opt/openssl/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++11 -o CMakeFiles/smtpServer.dir/__/common/src/connector.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/common/src/connector.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/common/src/connector.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/smtpServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/usr/local/opt/openssl/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++11 -o CMakeFiles/smtpServer.dir/__/common/src/logger.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/common/src/logger.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/common/src/logger.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/smtpServer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -I/usr/local/opt/openssl/include  -g   -Wall -O0 -pthread -lrt -g -std=gnu++11 -o CMakeFiles/smtpServer.dir/__/common/src/stringConst.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/common/src/stringConst.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/common/src/stringConst.cc"
+},
+{
+  "directory": "/home/cis5050/cis505/sp24-cis5050-T26/build/loadBalancer",
+  "command": "/usr/bin/aarch64-linux-gnu-g++    -g   -Wall -O0 -pthread -lrt -g -std=gnu++17 -o CMakeFiles/loadBalancer.dir/loadBalancer.cc.o -c /home/cis5050/cis505/sp24-cis5050-T26/loadBalancer/loadBalancer.cc",
+  "file": "/home/cis5050/cis505/sp24-cis5050-T26/loadBalancer/loadBalancer.cc"
+}
+]

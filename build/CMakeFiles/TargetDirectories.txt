@@ -1,0 +1,17 @@
+/home/cis5050/cis505/sp24-cis5050-T26/build/CMakeFiles/rebuild_cache.dir
+/home/cis5050/cis505/sp24-cis5050-T26/build/CMakeFiles/edit_cache.dir
+/home/cis5050/cis505/sp24-cis5050-T26/build/CMakeFiles/clean_all.dir
+/home/cis5050/cis505/sp24-cis5050-T26/build/common/CMakeFiles/rebuild_cache.dir
+/home/cis5050/cis505/sp24-cis5050-T26/build/common/CMakeFiles/edit_cache.dir
+/home/cis5050/cis505/sp24-cis5050-T26/build/common/CMakeFiles/common.dir
+/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer/CMakeFiles/edit_cache.dir
+/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer/CMakeFiles/rebuild_cache.dir
+/home/cis5050/cis505/sp24-cis5050-T26/build/frontendServer/CMakeFiles/frontend.dir
+/home/cis5050/cis505/sp24-cis5050-T26/build/smtpServer/CMakeFiles/rebuild_cache.dir
+/home/cis5050/cis505/sp24-cis5050-T26/build/smtpServer/CMakeFiles/edit_cache.dir
+/home/cis5050/cis505/sp24-cis5050-T26/build/smtpServer/CMakeFiles/smtpServer.dir
+/home/cis5050/cis505/sp24-cis5050-T26/build/adminServiceServer/CMakeFiles/rebuild_cache.dir
+/home/cis5050/cis505/sp24-cis5050-T26/build/adminServiceServer/CMakeFiles/edit_cache.dir
+/home/cis5050/cis505/sp24-cis5050-T26/build/loadBalancer/CMakeFiles/rebuild_cache.dir
+/home/cis5050/cis505/sp24-cis5050-T26/build/loadBalancer/CMakeFiles/edit_cache.dir
+/home/cis5050/cis505/sp24-cis5050-T26/build/loadBalancer/CMakeFiles/loadBalancer.dir

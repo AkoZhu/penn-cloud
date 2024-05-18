@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcommon.a  CMakeFiles/common.dir/src/DBConnection.cc.o CMakeFiles/common.dir/src/connector.cc.o CMakeFiles/common.dir/src/logger.cc.o CMakeFiles/common.dir/src/stringConst.cc.o
+/usr/bin/ranlib libcommon.a

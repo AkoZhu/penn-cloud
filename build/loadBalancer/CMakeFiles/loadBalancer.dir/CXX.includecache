@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cis5050/cis505/sp24-cis5050-T26/loadBalancer/loadBalancer.cc
+netinet/in.h
+-
+cstring
+-
+unistd.h
+-
+iostream
+-
+sstream
+-
+vector
+-
+iterator
+-
+thread
+-
+fstream
+-
+arpa/inet.h
+-
+
