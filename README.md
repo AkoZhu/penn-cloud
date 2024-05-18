@@ -2,6 +2,8 @@
 
 **NOTICE:** Due to the Academic policy, the source code is excluded.
 
+**Details:** https://akozhu.github.io/portfolio/penn-cloud/
+
 # Introduction
 
 Welcome to our Penn Cloud Application, for CIS5050 Course Project!
